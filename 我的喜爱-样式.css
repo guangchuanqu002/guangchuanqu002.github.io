@@ -1,0 +1,34 @@
+.phone{
+	position: absolute;
+	width: 500px;
+	height: 500px;
+	top: 150px;
+	left:220px;
+}
+#phone{
+	top: 50px;
+	left:50px;
+	width: 250px;
+	height: 250px;
+}
+#phonetext{
+	margin-top: 50px;
+	margin-left: 80px;
+}
+.car{
+	position: absolute;
+	width: 500px;
+	height: 500px;
+	top: 150px;
+	left:900px;
+}
+#car{
+	top: 50px;
+	left:50px;
+	width: 250px;
+	height: 250px;
+}
+#cartext{
+	margin-top: 50px;
+    margin-left: 50px;
+}	
